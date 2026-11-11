@@ -1,9 +1,0 @@
-framing,model,n_test_days,accuracy,auc,gain_vs_always_up,gain_95ci,binom_p_vs_always_up_rate
-same_day,always_up,988,0.5364,,0.0,,
-same_day,prev_day_direction,988,0.4717,,-0.0648,"[-0.1063, -0.0233]",1.0
-same_day,vader_logreg,988,0.5223,0.4804,-0.0142,"[-0.0304, 0.002]",0.8226
-same_day,tfidf_logreg,988,0.5364,0.4776,0.0,"[0.0, 0.0]",0.513
-next_day,always_up,988,0.5364,,0.0,,
-next_day,prev_day_direction,988,0.4717,,-0.0648,"[-0.1063, -0.0233]",1.0
-next_day,vader_logreg,988,0.5445,0.5049,0.0081,"[-0.0071, 0.0223]",0.3164
-next_day,tfidf_logreg,988,0.5364,0.5018,0.0,"[0.0, 0.0]",0.513

@@ -1,8 +1,0 @@
-pandas>=2.0
-numpy
-scipy
-scikit-learn>=1.3
-vaderSentiment
-streamlit>=1.40
-plotly
-pytest
